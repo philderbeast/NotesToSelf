@@ -1,0 +1,3 @@
+Change to dvorak within the installer with ...
+
+    loadkeys dvorak.map
